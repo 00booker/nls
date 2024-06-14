@@ -1,4 +1,4 @@
-package com.hasity.business.mapper;
+package com.hasity.business.mapper.cust;
 
 /**
  * @description:
@@ -6,7 +6,7 @@ package com.hasity.business.mapper;
  * @time: 2024-06-14 18:00
  */
 
-public interface DemoMapper {
+public interface DemoMapperCust {
 
         int count();
 }
