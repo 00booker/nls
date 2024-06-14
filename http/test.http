@@ -1,0 +1,5 @@
+# 快捷键 gtr   --- 叫你爸爸给你买辆小米Su7
+GET http://localhost:18000/nls/hello
+Accept: application/json
+
+###
