@@ -1,0 +1,103 @@
+2024-06-14 18:15:20.293 INFO  com.hasity.business.BusinessApplication            50   restartedMain                     Starting BusinessApplication using Java 17.0.7 with PID 18912 (D:\BaiduNetdiskDownload\nls\business\target\classes started by zjw16 in D:\BaiduNetdiskDownload\nls)
+2024-06-14 18:15:20.295 INFO  com.hasity.business.BusinessApplication            654  restartedMain                     No active profile set, falling back to 1 default profile: "default"
+2024-06-14 18:15:20.329 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor  252  restartedMain                     Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-14 18:15:20.330 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor  252  restartedMain                     For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-14 18:15:21.418 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer       109  restartedMain                     Tomcat initialized with port 18000 (http)
+2024-06-14 18:15:21.426 INFO  org.apache.coyote.http11.Http11NioProtocol         173  restartedMain                     Initializing ProtocolHandler ["http-nio-18000"]
+2024-06-14 18:15:21.427 INFO  org.apache.catalina.core.StandardService           173  restartedMain                     Starting service [Tomcat]
+2024-06-14 18:15:21.428 INFO  org.apache.catalina.core.StandardEngine            173  restartedMain                     Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-06-14 18:15:21.467 INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/nls]  173  restartedMain                     Initializing Spring embedded WebApplicationContext
+2024-06-14 18:15:21.467 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     296  restartedMain                     Root WebApplicationContext: initialization completed in 1137 ms
+2024-06-14 18:15:22.276 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer     59   restartedMain                     LiveReload server is running on port 35729
+2024-06-14 18:15:22.290 INFO  org.apache.coyote.http11.Http11NioProtocol         173  restartedMain                     Starting ProtocolHandler ["http-nio-18000"]
+2024-06-14 18:15:22.309 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer       241  restartedMain                     Tomcat started on port 18000 (http) with context path '/nls'
+2024-06-14 18:15:22.317 INFO  com.hasity.business.BusinessApplication            56   restartedMain                     Started BusinessApplication in 2.412 seconds (process running for 2.967)
+2024-06-14 18:15:22.319 INFO  com.hasity.business.BusinessApplication            18   restartedMain                     启动成功! 
+2024-06-14 18:15:22.319 INFO  com.hasity.business.BusinessApplication            19   restartedMain                     测试地址: http://localhost:18000/nls/hello
+2024-06-14 18:15:24.707 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener 211  File Watcher                     Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-14 18:15:24.709 INFO  org.apache.coyote.http11.Http11NioProtocol         173  Thread-5                     Stopping ProtocolHandler ["http-nio-18000"]
+2024-06-14 18:15:24.812 INFO  com.hasity.business.BusinessApplication            50   restartedMain                     Starting BusinessApplication using Java 17.0.7 with PID 18912 (D:\BaiduNetdiskDownload\nls\business\target\classes started by zjw16 in D:\BaiduNetdiskDownload\nls)
+2024-06-14 18:15:24.813 INFO  com.hasity.business.BusinessApplication            654  restartedMain                     No active profile set, falling back to 1 default profile: "default"
+2024-06-14 18:15:25.024 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer       109  restartedMain                     Tomcat initialized with port 18000 (http)
+2024-06-14 18:15:25.025 INFO  org.apache.coyote.http11.Http11NioProtocol         173  restartedMain                     Initializing ProtocolHandler ["http-nio-18000"]
+2024-06-14 18:15:25.025 INFO  org.apache.catalina.core.StandardService           173  restartedMain                     Starting service [Tomcat]
+2024-06-14 18:15:25.025 INFO  org.apache.catalina.core.StandardEngine            173  restartedMain                     Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-06-14 18:15:25.038 INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/nls]  173  restartedMain                     Initializing Spring embedded WebApplicationContext
+2024-06-14 18:15:25.038 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     296  restartedMain                     Root WebApplicationContext: initialization completed in 223 ms
+2024-06-14 18:15:25.456 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer     59   restartedMain                     LiveReload server is running on port 35729
+2024-06-14 18:15:25.464 INFO  org.apache.coyote.http11.Http11NioProtocol         173  restartedMain                     Starting ProtocolHandler ["http-nio-18000"]
+2024-06-14 18:15:25.467 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer       241  restartedMain                     Tomcat started on port 18000 (http) with context path '/nls'
+2024-06-14 18:15:25.470 INFO  com.hasity.business.BusinessApplication            56   restartedMain                     Started BusinessApplication in 0.678 seconds (process running for 6.121)
+2024-06-14 18:15:25.471 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  63   restartedMain                     Condition evaluation unchanged
+2024-06-14 18:15:25.472 INFO  com.hasity.business.BusinessApplication            18   restartedMain                     启动成功! 
+2024-06-14 18:15:25.472 INFO  com.hasity.business.BusinessApplication            19   restartedMain                     测试地址: http://localhost:18000/nls/hello
+2024-06-14 18:15:57.692 INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/nls]  173  http-nio-18000-exec-1                     Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-14 18:15:57.692 INFO  org.springframework.web.servlet.DispatcherServlet  532  http-nio-18000-exec-1                     Initializing Servlet 'dispatcherServlet'
+2024-06-14 18:15:57.693 INFO  org.springframework.web.servlet.DispatcherServlet  554  http-nio-18000-exec-1                     Completed initialization in 1 ms
+2024-06-14 18:15:57.722 INFO  com.hasity.business.aspect.LogAspect               38   http-nio-18000-exec-1                     ------------- 环绕通知开始 -------------
+2024-06-14 18:15:57.723 INFO  com.hasity.business.aspect.LogAspect               47   http-nio-18000-exec-1                     请求地址: http://localhost:18000/nls/count GET
+2024-06-14 18:15:57.723 INFO  com.hasity.business.aspect.LogAspect               48   http-nio-18000-exec-1                     类名方法: com.hasity.business.controller.TestController.count
+2024-06-14 18:15:57.723 INFO  com.hasity.business.aspect.LogAspect               49   http-nio-18000-exec-1                     远程地址: 127.0.0.1
+2024-06-14 18:15:57.770 INFO  com.hasity.business.aspect.LogAspect               70   http-nio-18000-exec-1                     请求参数: []
+2024-06-14 18:15:57.786 INFO  com.zaxxer.hikari.HikariDataSource                 110  http-nio-18000-exec-1                     HikariPool-1 - Starting...
+2024-06-14 18:15:58.088 INFO  com.zaxxer.hikari.pool.HikariPool                  565  http-nio-18000-exec-1                     HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@55a69377
+2024-06-14 18:15:58.089 INFO  com.zaxxer.hikari.HikariDataSource                 123  http-nio-18000-exec-1                     HikariPool-1 - Start completed.
+2024-06-14 18:15:58.127 INFO  com.hasity.business.aspect.LogAspect               73   http-nio-18000-exec-1                     返回结果: "0"
+2024-06-14 18:15:58.128 INFO  com.hasity.business.aspect.LogAspect               74   http-nio-18000-exec-1                     ------------- 环绕通知结束 耗时：406 ms -------------
+2024-06-14 18:17:20.218 INFO  com.hasity.business.aspect.LogAspect               38   http-nio-18000-exec-3                     ------------- 环绕通知开始 -------------
+2024-06-14 18:17:20.218 INFO  com.hasity.business.aspect.LogAspect               47   http-nio-18000-exec-3                     请求地址: http://localhost:18000/nls/count GET
+2024-06-14 18:17:20.218 INFO  com.hasity.business.aspect.LogAspect               48   http-nio-18000-exec-3                     类名方法: com.hasity.business.controller.TestController.count
+2024-06-14 18:17:20.218 INFO  com.hasity.business.aspect.LogAspect               49   http-nio-18000-exec-3                     远程地址: 127.0.0.1
+2024-06-14 18:17:20.219 INFO  com.hasity.business.aspect.LogAspect               70   http-nio-18000-exec-3                     请求参数: []
+2024-06-14 18:17:20.221 INFO  com.hasity.business.aspect.LogAspect               73   http-nio-18000-exec-3                     返回结果: "1"
+2024-06-14 18:17:20.221 INFO  com.hasity.business.aspect.LogAspect               74   http-nio-18000-exec-3                     ------------- 环绕通知结束 耗时：3 ms -------------
+2024-06-14 18:18:40.778 INFO  com.zaxxer.hikari.HikariDataSource                 350  SpringApplicationShutdownHook                     HikariPool-1 - Shutdown initiated...
+2024-06-14 18:18:40.785 INFO  com.zaxxer.hikari.HikariDataSource                 352  SpringApplicationShutdownHook                     HikariPool-1 - Shutdown completed.
+2024-06-14 18:18:46.272 INFO  com.hasity.business.BusinessApplication            50   restartedMain                     Starting BusinessApplication using Java 17.0.7 with PID 22252 (D:\BaiduNetdiskDownload\nls\business\target\classes started by zjw16 in D:\BaiduNetdiskDownload\nls)
+2024-06-14 18:18:46.274 INFO  com.hasity.business.BusinessApplication            654  restartedMain                     No active profile set, falling back to 1 default profile: "default"
+2024-06-14 18:18:46.309 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor  252  restartedMain                     Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-14 18:18:46.310 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor  252  restartedMain                     For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-14 18:18:47.279 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer       109  restartedMain                     Tomcat initialized with port 18000 (http)
+2024-06-14 18:18:47.287 INFO  org.apache.coyote.http11.Http11NioProtocol         173  restartedMain                     Initializing ProtocolHandler ["http-nio-18000"]
+2024-06-14 18:18:47.287 INFO  org.apache.catalina.core.StandardService           173  restartedMain                     Starting service [Tomcat]
+2024-06-14 18:18:47.287 INFO  org.apache.catalina.core.StandardEngine            173  restartedMain                     Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-06-14 18:18:47.327 INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/nls]  173  restartedMain                     Initializing Spring embedded WebApplicationContext
+2024-06-14 18:18:47.327 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     296  restartedMain                     Root WebApplicationContext: initialization completed in 1017 ms
+2024-06-14 18:18:48.079 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer     59   restartedMain                     LiveReload server is running on port 35729
+2024-06-14 18:18:48.094 INFO  org.apache.coyote.http11.Http11NioProtocol         173  restartedMain                     Starting ProtocolHandler ["http-nio-18000"]
+2024-06-14 18:18:48.117 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer       241  restartedMain                     Tomcat started on port 18000 (http) with context path '/nls'
+2024-06-14 18:18:48.126 INFO  com.hasity.business.BusinessApplication            56   restartedMain                     Started BusinessApplication in 2.228 seconds (process running for 2.666)
+2024-06-14 18:18:48.128 INFO  com.hasity.business.BusinessApplication            18   restartedMain                     启动成功! 
+2024-06-14 18:18:48.129 INFO  com.hasity.business.BusinessApplication            19   restartedMain                     测试地址: http://localhost:18000/nls/hello
+2024-06-14 18:20:04.449 INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/nls]  173  http-nio-18000-exec-1                     Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-14 18:20:04.449 INFO  org.springframework.web.servlet.DispatcherServlet  532  http-nio-18000-exec-1                     Initializing Servlet 'dispatcherServlet'
+2024-06-14 18:20:04.450 INFO  org.springframework.web.servlet.DispatcherServlet  554  http-nio-18000-exec-1                     Completed initialization in 1 ms
+2024-06-14 18:20:04.475 INFO  com.hasity.business.aspect.LogAspect               38   http-nio-18000-exec-1                     ------------- 环绕通知开始 -------------
+2024-06-14 18:20:04.477 INFO  com.hasity.business.aspect.LogAspect               47   http-nio-18000-exec-1                     请求地址: http://localhost:18000/nls/count GET
+2024-06-14 18:20:04.477 INFO  com.hasity.business.aspect.LogAspect               48   http-nio-18000-exec-1                     类名方法: com.hasity.business.controller.TestController.count
+2024-06-14 18:20:04.477 INFO  com.hasity.business.aspect.LogAspect               49   http-nio-18000-exec-1                     远程地址: 127.0.0.1
+2024-06-14 18:20:04.521 INFO  com.hasity.business.aspect.LogAspect               70   http-nio-18000-exec-1                     请求参数: []
+2024-06-14 18:20:04.533 INFO  com.zaxxer.hikari.HikariDataSource                 110  http-nio-18000-exec-1                     HikariPool-1 - Starting...
+2024-06-14 18:20:04.755 INFO  com.zaxxer.hikari.pool.HikariPool                  565  http-nio-18000-exec-1                     HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4eccf591
+2024-06-14 18:20:04.757 INFO  com.zaxxer.hikari.HikariDataSource                 123  http-nio-18000-exec-1                     HikariPool-1 - Start completed.
+2024-06-14 18:20:04.799 INFO  com.hasity.business.aspect.LogAspect               73   http-nio-18000-exec-1                     返回结果: "1"
+2024-06-14 18:20:04.800 INFO  com.hasity.business.aspect.LogAspect               74   http-nio-18000-exec-1                     ------------- 环绕通知结束 耗时：324 ms -------------
+2024-06-14 18:20:13.741 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener 211  File Watcher                     Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-14 18:20:13.744 INFO  org.apache.coyote.http11.Http11NioProtocol         173  Thread-5                     Stopping ProtocolHandler ["http-nio-18000"]
+2024-06-14 18:20:13.766 INFO  com.zaxxer.hikari.HikariDataSource                 350  Thread-5                     HikariPool-1 - Shutdown initiated...
+2024-06-14 18:20:13.771 INFO  com.zaxxer.hikari.HikariDataSource                 352  Thread-5                     HikariPool-1 - Shutdown completed.
+2024-06-14 18:20:13.886 INFO  com.hasity.business.BusinessApplication            50   restartedMain                     Starting BusinessApplication using Java 17.0.7 with PID 22252 (D:\BaiduNetdiskDownload\nls\business\target\classes started by zjw16 in D:\BaiduNetdiskDownload\nls)
+2024-06-14 18:20:13.886 INFO  com.hasity.business.BusinessApplication            654  restartedMain                     No active profile set, falling back to 1 default profile: "default"
+2024-06-14 18:20:14.131 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer       109  restartedMain                     Tomcat initialized with port 18000 (http)
+2024-06-14 18:20:14.131 INFO  org.apache.coyote.http11.Http11NioProtocol         173  restartedMain                     Initializing ProtocolHandler ["http-nio-18000"]
+2024-06-14 18:20:14.132 INFO  org.apache.catalina.core.StandardService           173  restartedMain                     Starting service [Tomcat]
+2024-06-14 18:20:14.132 INFO  org.apache.catalina.core.StandardEngine            173  restartedMain                     Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-06-14 18:20:14.147 INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/nls]  173  restartedMain                     Initializing Spring embedded WebApplicationContext
+2024-06-14 18:20:14.147 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     296  restartedMain                     Root WebApplicationContext: initialization completed in 259 ms
+2024-06-14 18:20:14.568 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer     59   restartedMain                     LiveReload server is running on port 35729
+2024-06-14 18:20:14.575 INFO  org.apache.coyote.http11.Http11NioProtocol         173  restartedMain                     Starting ProtocolHandler ["http-nio-18000"]
+2024-06-14 18:20:14.578 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer       241  restartedMain                     Tomcat started on port 18000 (http) with context path '/nls'
+2024-06-14 18:20:14.583 INFO  com.hasity.business.BusinessApplication            56   restartedMain                     Started BusinessApplication in 0.73 seconds (process running for 89.124)
+2024-06-14 18:20:14.585 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  63   restartedMain                     Condition evaluation unchanged
+2024-06-14 18:20:14.585 INFO  com.hasity.business.BusinessApplication            18   restartedMain                     启动成功! 
+2024-06-14 18:20:14.585 INFO  com.hasity.business.BusinessApplication            19   restartedMain                     测试地址: http://localhost:18000/nls/hello
