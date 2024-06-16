@@ -1,6 +1,7 @@
 package com.hasity.business.controller;
 
 
+import com.hasity.business.exception.BusinessException;
 import com.hasity.business.resp.CommonResp;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ControllerAdvice;
@@ -49,16 +50,16 @@ public class ControllerExceptionHandler {
      * @param e
      * @return
      */
-    // @ExceptionHandler(value = BusinessException.class)
-    // @ResponseBody
-    // public CommonResp<Object> exceptionHandler(BusinessException e) {
-    //     CommonResp<Object> commonResp = new CommonResp<>();
-    //     log.error("系统异常：", e);
-    //     commonResp.setSuccess(false);
-    //     commonResp.setMessage(e.getE().getDesc());
-    //     return commonResp;
-    // }
-    //
+    @ExceptionHandler(value = BusinessException.class)
+    @ResponseBody
+    public CommonResp<Object> exceptionHandler(BusinessException e) {
+        CommonResp<Object> commonResp = new CommonResp<>();
+        log.error("系统异常：", e);
+        commonResp.setSuccess(false);
+        commonResp.setMessage(e.getE().getDesc());
+        return commonResp;
+    }
+
     // /**
     //  * 校验异常统一处理
     //  * @param e
